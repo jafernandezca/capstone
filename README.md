@@ -1,18 +1,16 @@
-# Sistema de Reservación de Mesas para Restaurante
+# Sistema de reservación de mesas para restaurante
 
-Este proyecto es parte de mi Capstone para el Meta Front-End Developer Professional Certificate. Consiste en un sistema de reservación de mesas para un restaurante desarrollado en React.
+Este proyecto es parte de mi Capstone para el Meta Front-End Developer. Consiste en un sistema de reservación de mesas para un restaurante desarrollado en React.
 
 ## Descripción
 
-El Sistema de Reservación de Mesas para Restaurante es una aplicación web que permite a los clientes reservar mesas en un restaurante de manera fácil y conveniente. Ofrece una interfaz intuitiva donde los usuarios pueden seleccionar la fecha, hora y número de personas para su reserva. Además, el restaurante puede gestionar las reservas desde un panel de administración donde pueden ver, editar o cancelar las reservas existentes.
+El Sistema de Reservación de Mesas para Restaurante es una aplicación web que permite a los clientes reservar mesas en un restaurante de manera fácil y conveniente. Ofrece una interfaz intuitiva donde los usuarios pueden seleccionar la fecha, hora y número de personas para su reserva. 
+
 
 ## Funcionalidades Principales
 
 - Los usuarios pueden seleccionar la fecha, hora y número de personas para su reserva.
-- Los usuarios pueden ver una vista previa de la disponibilidad de mesas para la fecha y hora seleccionadas.
 - Los usuarios pueden confirmar y completar su reserva.
-- Los administradores del restaurante pueden ver todas las reservas existentes.
-- Los administradores pueden editar o cancelar reservas según sea necesario.
 
 ## Instalación
 
@@ -26,7 +24,6 @@ El Sistema de Reservación de Mesas para Restaurante es una aplicación web que 
 
 - React: Librería de JavaScript para construir interfaces de usuario.
 - React Router: Librería para el enrutamiento de la aplicación.
-- [Otras tecnologías que hayas utilizado en tu proyecto].
 
 ## Contribución
 
@@ -40,4 +37,4 @@ El Sistema de Reservación de Mesas para Restaurante es una aplicación web que 
 
 ## Licencia
 
-Este proyecto está bajo la Licencia [Nombre de la Licencia](URL de la licencia).
+Libre
